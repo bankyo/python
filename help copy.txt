@@ -1,0 +1,37 @@
+18 Oct 2018
+
+How to Find Help
+search online - The Google results for an error message can be very helpful.
+try asking people in a web forum (http://stackoverflow.com/) http://reddit.com/r/learnprogramming/
+Be sure to read the Frequently Asked Questions sections these websites have about the proper way to post questions.
+Copy and paste the entire error message and your code to http://pastebin.com/ or http://gist.github.com/.
+
+I write programming tutorials on my blog at http://inventwithpython.com/blog/, and you can contact me with questions at al@inventwithpython.com.
+
+You can also check out the resources at http://nostarch.com/automatestuff/ to see a list of common Python error messages and their meanings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
